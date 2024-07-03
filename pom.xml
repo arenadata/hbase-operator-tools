@@ -128,7 +128,7 @@
     <compileSource>1.8</compileSource>
     <java.min.version>${compileSource}</java.min.version>
     <maven.min.version>3.3.3</maven.min.version>
-    <hbase.version>2.4.17</hbase.version>
+    <hbase.version>2.5.8</hbase.version>
     <hbase-thirdparty.version>4.1.4</hbase-thirdparty.version>
     <log4j2.version>2.17.2</log4j2.version>
     <surefire.provider>surefire-junit47</surefire.provider>
